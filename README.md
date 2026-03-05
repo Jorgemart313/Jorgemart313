@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jorge Martinez</h1>
+<h1 align="center">Hello World!! 👋, I'm Jorge Martinez</h1>
 <h3 align="center">Computer Engineering Student | Python & Web Development</h3>
 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
@@ -46,23 +46,6 @@
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jorgemart313&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-## 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgemart313&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 📫 Contact
 
