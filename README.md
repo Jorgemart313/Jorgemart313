@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jorge Martinez</h1>
+<h3 align="center">Computer Engineering Student | Python & Web Development</h3>
 
-<!--
-**Jorgemart313/Jorgemart313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🎓 Computer Engineering Student
+* 💻 Focused on **Python, Web Development and Databases**
+* 🧠 Interested in **Artificial Intelligence and modern software systems**
+* 📊 Experience with **administrative systems and ERP platforms**
+* 🌎 Based in **Asunción, Paraguay**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Frameworks & Runtime
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### Data & Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+
+### Tools
+
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jorgemart313&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgemart313&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contact
+
+📧 **Email:** [jorgemart3130@gmail.com](mailto:jorgemart3130@gmail.com)
+🌎 **Location:** Asunción, Paraguay
+🔗 **GitHub:** https://github.com/Jorgemart313
+
+---
+
+⭐ Focusing
